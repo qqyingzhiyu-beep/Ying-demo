@@ -1,5 +1,7 @@
+streamlit
+pandas
+scikit-learn
 joblib
 shap
-scikit-learn
-pandas
-streamlit
+matplotlib
+plotly  # 备用，万一需要
